@@ -1,3 +1,18 @@
+## Master
+
+##### Breaking
+
+* Swift 1.x is no longer supported.
+
+##### Enhancements
+
+* None.
+
+##### Bug Fixes
+
+* None.
+
+
 ## 0.4.1
 
 *Note: this is the last official release of jazzy supporting Swift 1.x.*
